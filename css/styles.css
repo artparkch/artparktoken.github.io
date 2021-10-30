@@ -89,3 +89,9 @@ section a{
   letter-spacing: 1px;
   transition: all .5s ease;
 }
+
+#loogoo {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
