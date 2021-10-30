@@ -98,12 +98,24 @@ section a{
 
 #info {
   font-family: monospace;
-  font-size: 12px;
+  font-size: 8px;
   color: white;
 }
 
 #sscan {
   font-family: monospace;
-  font-size: 12px;
+  font-size: 8px;
+  color: white;
+}
+
+#homee {
+  font-family: monospace;
+  font-size: 8px;
+  color: white;
+}
+
+#about {
+  font-family: monospace;
+  font-size: 8px;
   color: white;
 }
